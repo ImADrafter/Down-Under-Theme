@@ -1,0 +1,34 @@
+{
+  "name": "down-under-color-theme",
+  "displayName": "Down Under color theme",
+  "description": "Just a color theme with pastel colors",
+  "repository": {
+    "url": "git+https://github.com/ImADrafter/Down-Under-Theme.git"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Down Under",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Down Under-color-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/ImADrafter/Down-Under-Theme/issues"
+  },
+  "homepage": "https://github.com/ImADrafter/Down-Under-Theme#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
