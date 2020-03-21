@@ -1,5 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
+	"name": "down-under-color-theme",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#21252b",
