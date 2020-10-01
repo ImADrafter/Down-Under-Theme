@@ -48,7 +48,7 @@
 		"titleBar.activeBackground": "#21252b",
 		"titleBar.activeForeground": "#73c990",
 		"titleBar.border": "#111518",
-		"textBlockQuote.background": "#ff0000",
+		"textBlockQuote.background": "#303030",
 		"terminalCursor.background": "#00000070",
 		"terminalCursor.foreground": "#73c990",
 		"terminal.selectionBackground": "#73c9903d",
