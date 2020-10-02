@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/ImADrafter/Down-Under-Theme/compare/v0.0.5...v0.0.6) (2020-10-02)
+
+
+### Features
+
+* replace icon ([24c7129](https://github.com/ImADrafter/Down-Under-Theme/commit/24c7129bdac45ca2f384972c191ea815126bc0f9))
+
 ### 0.0.5 (2020-10-02)
 
 
