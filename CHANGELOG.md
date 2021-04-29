@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/ImADrafter/Down-Under-Theme/compare/v0.0.6...v0.0.7) (2021-04-29)
+
+
+### Features
+
+* define minimap background ([662bdc7](https://github.com/ImADrafter/Down-Under-Theme/commit/662bdc716427c909a485e7be7cffac3b20391783))
+
 ### [0.0.6](https://github.com/ImADrafter/Down-Under-Theme/compare/v0.0.5...v0.0.6) (2020-10-02)
 
 
