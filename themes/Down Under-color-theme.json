@@ -34,6 +34,7 @@
 		"menu.selectionForeground": "#ffffff",
 		"menubar.selectionBackground": "#ffffff10",
 		"menubar.selectionForeground": "#ffffff",
+		"minimap.background": "#00000045",
 		"panel.border": "#73c990",
 		"peekViewEditor.background": "#111518",
 		"scrollbarSlider.activeBackground": "#374140",
