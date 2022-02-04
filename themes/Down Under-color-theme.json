@@ -56,6 +56,7 @@
 		"terminal.selectionBackground": "#73c9903d",
 		"editorCursor.foreground": "#73c990",
 		"editorLineNumber.activeForeground": "#3cc76a",
+    	"editorLineNumber.foreground": "#73c9906b",
 		"editor.selectionBackground": "#e2834432",
 		"editor.findMatchBackground": "#ff000000",
 		"editor.findMatchBorder": "#73c990",
