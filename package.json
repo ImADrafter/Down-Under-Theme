@@ -5,7 +5,8 @@
   "description": "Just a color theme with pastel colors",
   "icon": "images/icon.png",
   "repository": {
-    "url": "git+https://github.com/ImADrafter/Down-Under-Theme.git"
+    "type": "git",
+    "url": "https://github.com/ImADrafter/Down-Under-Theme.git"
   },
   "version": "0.0.7",
   "engines": {
