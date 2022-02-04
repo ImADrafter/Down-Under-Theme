@@ -36,7 +36,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "standard-version": "^9.0.0",
+    "standard-version": "^9.3.2",
     "vsce": "^2.6.7"
   }
 }
