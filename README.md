@@ -1,3 +1,4 @@
+![Version](https://img.shields.io/visual-studio-marketplace/v/imadrafter.down-under-color-theme)
 ![Deploy](https://github.com/ImADrafter/Down-Under-Theme/actions/workflows/main.yml/badge.svg)
 
 <p align="center">
