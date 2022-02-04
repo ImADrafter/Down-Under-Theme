@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/ImADrafter/Down-Under-Theme/compare/v0.0.7...v0.0.8) (2022-02-04)
+
+
+### Features
+
+* several improvements ([d6bff62](https://github.com/ImADrafter/Down-Under-Theme/commit/d6bff627909bab9ae9293e15383ff9f1525b6abb))
+
+
+### Bug Fixes
+
+* broken hyperlink ([42b305c](https://github.com/ImADrafter/Down-Under-Theme/commit/42b305ce707150a5be1a2e646729e157ec094eb8))
+
 ### [0.0.7](https://github.com/ImADrafter/Down-Under-Theme/compare/v0.0.6...v0.0.7) (2021-04-29)
 
 
