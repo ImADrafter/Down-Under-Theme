@@ -9,6 +9,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: npm ci
+      - run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
       - run: npm run release
       - uses: lannonbr/vsce-action@3.0.0
         with:
