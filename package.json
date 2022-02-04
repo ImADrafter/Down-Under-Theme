@@ -29,7 +29,9 @@
   },
   "homepage": "https://github.com/ImADrafter/Down-Under-Theme#readme",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "package": "vsce package",
+    "publish": "vsce publish"
   },
   "author": "",
   "license": "ISC",
