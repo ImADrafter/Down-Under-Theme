@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.14 (2025-01-14)
+
+
+### Bug Fixes
+
+* JSON malformation ([432cd64](https://github.com/ImADrafter/Down-Under-Theme/commit/432cd646113e6cc5659d44229dfe3994f1d67fab))
+
 ### 0.0.13 (2025-01-14)
 
 ### 0.0.12 (2022-06-12)
